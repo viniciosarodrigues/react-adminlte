@@ -1,0 +1,21 @@
+.main-footer {
+    position: fixed;
+    bottom:0px;
+    width:100%;
+}
+
+button {
+    margin-left: 5px;
+}
+
+.table-actions {
+    width: 150px;
+}
+
+.main-header .sidebar-toggle, .navbar-nav>li>a {
+    cursor: pointer;
+}
+
+.main-header .sidebar-toggle:hover {
+    color: #3c8dbc
+}
